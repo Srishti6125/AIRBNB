@@ -2,13 +2,13 @@
 
 # 🏡 Airbnb Data Analysis Project
 
-Welcome to the Airbnb Data Analysis project! This repository contains a complete exploratory data analysis (EDA) of Airbnb listings data, including visual insights, data wrangling, and business recommendations aimed at improving Airbnb's platform performance.
+Welcome to the Airbnb Data Analysis project! This repository contains a comprehensive exploratory data analysis( EDA) on Airbnb listings data along with visual insights, data wrangling, and business recommendations aimed at improving Airbnb's platform performance.
 
 ---
 
 ## 📌 Project Objective
 
-To uncover actionable insights from Airbnb’s dataset by analyzing factors such as pricing, room type, availability, neighbourhood trends, and review activity — ultimately helping improve booking rates, optimize host strategies, and enhance guest experience.
+Uncovering actionable insights from Airbnb's dataset through an analysis of its pricing, room type, availability, trends by neighborhood, and review activity-in short, making bookings optimal, making a few changes in host strategies, and enriching guest experience.
 
 ---
 
@@ -49,9 +49,9 @@ To uncover actionable insights from Airbnb’s dataset by analyzing factors such
 
 ## 💡 Business Insights
 
-- Private rooms dominate low-to-mid price ranges with high review counts.
-- Entire apartments have high prices but lower average review engagement.
-- Most listings are available year-round, but some high-priced listings are under-utilized.
+- Private rooms are the most popular in lower to mid-price brackets with higher review numbers.
+- Entire apartments boast high costs, but the average number of reviews is less.
+- Listings are mostly available throughout the year, but some expensive ones are not listed often.
 - Monthly review spikes reveal seasonal trends (e.g., summer travel peaks).
 - Mismatched minimum night policies and prices reduce booking chances.
 
@@ -59,18 +59,14 @@ To uncover actionable insights from Airbnb’s dataset by analyzing factors such
 
 ## ✅ Recommendations
 
-- Optimize pricing based on room type and area benchmarks.
-- Encourage hosts to increase calendar availability during peak months.
-- Flag unrealistic pricing or minimum night values.
-- Use seasonal review data to guide promotional strategies.
-
+- Set price baselines per room type and location.
+- Encourage hosts to open calendars for booking during peak months.
+- Flag unreasonable prices or days minimum.
+- Use seasonal trends in reviews to adjust promotional strategies.
 ---
 
 ## ✅ Conclusion
 
-The project demonstrates how structured EDA can help Airbnb align listing strategies with user behavior. These insights can drive platform improvements, boost bookings, and ensure long-term sustainability for hosts and the company.
+The project showcases the role of a structured EDA in helping Airbnb define its listing strategies according to the behavior of its users. These factors can improve the platform as a whole, leading to increased bookings and sustainability for hosts as well as the company in the long run.
 
 ---
-
-## 📁 Folder Structure
-
