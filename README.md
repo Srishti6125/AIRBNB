@@ -14,7 +14,7 @@ Uncovering actionable insights from Airbnb's dataset through an analysis of its 
 
 ## 📂 Dataset Information
 
-- Source: [Airbnb Open Data](https://www.kaggle.com/datasets)  
+- Source: [Airbnb Data](https://drive.google.com/drive/folders/10FJI5QasTWuqMX627FeyvvNCNhmNPpEm)  
 - Format: CSV  
 - Key Columns:
   - `id`, `name`, `host_id`, `host_name`
